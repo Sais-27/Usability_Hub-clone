@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the UsabilityHub Clone project, a web-based platform designed to mimic the functionality of the popular online website Usability Hub. This repository serves as a showcase of a simplified version of [Usability Hub](https://lightlessdays.github.io/UsabilityHub/#).
+Welcome to the UsabilityHub Clone project, a web-based platform designed to mimic the functionality of the popular online website [Usability Hub](https://lightlessdays.github.io/UsabilityHub/#).
 
 ## Preview
 ![UsabilityHub Clone](https://github.com/Sais-27/Usability_Hub-clone/blob/main/usabilityhub.gif)
